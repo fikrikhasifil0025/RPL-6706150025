@@ -11,11 +11,11 @@ System.out.print(" ");
 for(int j=1;j<=l;j++){
 System.out.print("+");
 }
-l+=2;
+l+=5;
  
 System.out.println("");
 }
-l -= 4;
+l -= 3;
  
 for(int i=(n-1);i>=1;i--){
 for(int k=i;k<=(n-1);k++){
