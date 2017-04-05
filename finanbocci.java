@@ -6,7 +6,9 @@ public class Fibonacci {
         int n = show.nextInt();
         long fib[] = new long[n];
          
-        //code sudah digantis
+        //code sudah digantis 
+        
+        // code akun yg sudah terhubung sudah di edit
         fib[0] = 0;
         fib[1] = 1;
          
